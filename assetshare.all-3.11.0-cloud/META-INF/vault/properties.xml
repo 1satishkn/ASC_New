@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Asset Share Commons - All</comment>
+<entry key="cloudManagerTarget">all</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2025-07-31T19:38:57.213Z</entry>
+<entry key="groupId">com.adobe.aem.commons</entry>
+<entry key="name">asset-share-commons.all-cloud</entry>
+<entry key="description">All package for Asset Share Commons</entry>
+<entry key="artifactId">assetshare.all</entry>
+<entry key="version">3.11.0</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">asset-share-commons</entry>
+</properties>

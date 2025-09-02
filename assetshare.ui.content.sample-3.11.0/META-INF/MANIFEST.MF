@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.4.0
+Build-Jdk-Spec: 11
+Implementation-Title: Asset Share Commons - UI Sample Content
+Implementation-Version: 3.11.0
+Implementation-Vendor: Adobe
+Content-Package-Type: content
+Content-Package-Id: asset-share-commons:asset-share-commons.ui.content.s
+ ample:3.11.0
+Content-Package-Description: UI sample content package for Asset Share C
+ ommons
+Content-Package-Dependencies: asset-share-commons:asset-share-commons.ui
+ .apps:3.11.0,asset-share-commons:asset-share-commons.ui.content:3.11.0
+Content-Package-Dependencies-Locations: asset-share-commons:asset-share-
+ commons.ui.apps:3.11.0=maven:com.adobe.aem.commons:assetshare.ui.apps:3
+ .11.0:zip,asset-share-commons:asset-share-commons.ui.content:3.11.0=mav
+ en:com.adobe.aem.commons:assetshare.ui.content:3.11.0:zip
+Content-Package-Roots: /content/asset-share-commons,/content/dam/asset-s
+ hare-commons
+

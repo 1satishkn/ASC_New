@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.4.0
+Build-Jdk-Spec: 11
+Implementation-Title: Asset Share Commons - All
+Implementation-Version: 3.11.0
+Implementation-Vendor: Adobe
+Content-Package-Type: container
+Content-Package-Id: asset-share-commons:asset-share-commons.all-cloud:3.
+ 11.0
+Content-Package-Description: All package for Asset Share Commons
+Content-Package-Roots: /apps/asset-share-commons-packages,/apps/asset-sh
+ are-commons-vendor-packages
+
